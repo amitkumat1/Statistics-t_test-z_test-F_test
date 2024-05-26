@@ -5,7 +5,7 @@ It is used to draw various inference/insights about the data
 Hypothesis Testing --> Used to test assumptions about the population from the available sample data.
 ### Null Hypothesis 
 The ground truth/ the actual present value(H0). It lies with in 95% of probability distribution curve
-# Alternate Hypothesis
+### Alternate Hypothesis
 The assumption(H1). It lies with in remaining 5% of probability distribution curve
 #### Z test --> Test for proportion
 #### t test --> Test for means
